@@ -1,6 +1,7 @@
 # fetchApiData2:
 
-![image](https://user-images.githubusercontent.com/92245005/215307371-940e908d-938c-41d7-a6d5-e5e2fb86bb3d.png)
+![image](https://user-images.githubusercontent.com/92245005/215307687-a98e64de-46da-480b-a10c-4288a90bf12d.png)
+
 
 #fetchApiData1:
 
